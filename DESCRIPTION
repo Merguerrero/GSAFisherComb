@@ -1,0 +1,14 @@
+Package: GSAFisherComb
+Type: Package
+Title: Package to perform a GSAfisher test for a gene-set analysis
+Version: 1.0
+Date: 2018-02-09
+Depends: R (>= 2.10)
+Author: Mercedes Guerrero Murillo
+Maintainer: Mercedes Guerrero Murillo <mercedes.guerrero@uvic.cat>
+Description: We implemented a set of functions to perform a Fisher combined test.
+License: GPL(>= 2)
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
